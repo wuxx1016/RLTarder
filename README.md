@@ -2,13 +2,13 @@
 
 ## Overview  
 
-This is the repository of my graduate thesis which aims to use reinforcement learning in quantitative trading.
+This is the repository of yuriak graduate thesis which aims to use reinforcement learning in quantitative trading.
 Two types of RL models were experimented and could make good performance in the back-test:
 1. Policy Gradient
     - Vanilla Policy Gradient (not implemented in this repo)
     - Multi-Task Recurrent Policy Gradient (RPG)
 2. Direct RL
-    - Vanilla DRL (DRL)
+    - Vanilla DRL (DRL) 
     - A hybrid network involves news embedding vectors (DRL with news)
 
 ## Experiments
